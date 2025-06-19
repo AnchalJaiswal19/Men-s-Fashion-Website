@@ -59,7 +59,7 @@
 
 ## This is our Website Interface
 
-[Website_Interface](https://github.com/AnchalJaiswal19/Men-s-Fashion-Website/Website_interface.jpg)
+![Website Interface](Website_interface.jpg)
 
 ## 📝 Author
 
